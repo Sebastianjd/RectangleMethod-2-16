@@ -1,0 +1,14 @@
+C:\Users\Sebas\source\repos\RectangleMethod\bin\Debug\netcoreapp3.1\RectangleMethod.exe
+C:\Users\Sebas\source\repos\RectangleMethod\bin\Debug\netcoreapp3.1\RectangleMethod.deps.json
+C:\Users\Sebas\source\repos\RectangleMethod\bin\Debug\netcoreapp3.1\RectangleMethod.runtimeconfig.json
+C:\Users\Sebas\source\repos\RectangleMethod\bin\Debug\netcoreapp3.1\RectangleMethod.runtimeconfig.dev.json
+C:\Users\Sebas\source\repos\RectangleMethod\bin\Debug\netcoreapp3.1\RectangleMethod.dll
+C:\Users\Sebas\source\repos\RectangleMethod\bin\Debug\netcoreapp3.1\RectangleMethod.pdb
+C:\Users\Sebas\source\repos\RectangleMethod\obj\Debug\netcoreapp3.1\RectangleMethod.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\RectangleMethod\obj\Debug\netcoreapp3.1\RectangleMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\source\repos\RectangleMethod\obj\Debug\netcoreapp3.1\RectangleMethod.AssemblyInfoInputs.cache
+C:\Users\Sebas\source\repos\RectangleMethod\obj\Debug\netcoreapp3.1\RectangleMethod.AssemblyInfo.cs
+C:\Users\Sebas\source\repos\RectangleMethod\obj\Debug\netcoreapp3.1\RectangleMethod.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\RectangleMethod\obj\Debug\netcoreapp3.1\RectangleMethod.dll
+C:\Users\Sebas\source\repos\RectangleMethod\obj\Debug\netcoreapp3.1\RectangleMethod.pdb
+C:\Users\Sebas\source\repos\RectangleMethod\obj\Debug\netcoreapp3.1\RectangleMethod.genruntimeconfig.cache
